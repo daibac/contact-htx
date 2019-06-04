@@ -2143,3 +2143,10 @@ input[type="submit"] {
 
 
 /*# sourceMappingURL=nucleus.css.map */
+
+
+#contact{
+  text-align: center;
+}
+#contact .form-field input{ width:373px; }
+#contact .form-field textarea{ width:373px; height: 123px; }
